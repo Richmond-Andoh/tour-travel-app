@@ -1,0 +1,53 @@
+.footer {
+    margin-top: 5rem;
+    background-color: #111;
+    color: white;
+}
+
+.list {
+    list-style-type: none;
+    text-align: start;
+}
+
+.social  {
+    justify-content: space-between;
+}
+.social-top {
+    padding: 2rem 1rem;
+}
+.social-icons {
+    padding: 2rem 1rem;
+}
+
+.social-icons a {
+    color: white;
+    font-size: 2rem;
+    padding: 0.5rem 0.6rem;
+}
+
+.footer-bottom {
+    padding: 3.5rem 1rem;
+}
+
+.list li {
+    padding-top: 0.5rem;
+}
+
+@media screen and (max-width: 650px) {
+    .footer-bottom {
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+
+    .col-sm-3 {
+        margin: 1.5rem 0;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .footer-bottom {
+        align-items: center;
+        display: grid;
+        grid-template-columns: auto;
+    }
+}

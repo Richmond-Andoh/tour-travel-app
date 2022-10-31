@@ -1,0 +1,50 @@
+.hero {
+    width: 100%;
+    height: 100%;
+}
+.hero-img{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.Intro-Image {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+}
+.hero-img::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.hero-caption {
+    text-align: center;
+    position: absolute;
+   transform: translate(-50%, -50%);
+   top: 60%;
+   left: 50%;
+}
+
+.hero-caption h1{
+    font-size: 3rem;
+    font-weight: 900;
+    color: #fff;
+}
+
+
+@media screen and (max-width: 650px) {
+    .hero-caption h1{
+        font-size: 2rem;
+        font-weight: 600;
+        color: #fff;
+    }
+    
+    
+}

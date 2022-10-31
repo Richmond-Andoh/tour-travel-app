@@ -1,0 +1,75 @@
+.hero-page {
+    width: 100%;
+    height: 100%;
+}
+.hero-img{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.Intro-Image {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+}
+.hero-img::after {
+    background-color: #1111;
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.hero-caption {
+    text-align: start;
+    width: 100%;
+    position: absolute;
+   transform: translate(-50%, -50%);
+   top: 60%;
+   left: 50%;
+}
+
+.hero-caption h1{
+    font-size: 3rem;
+    font-weight: 900;
+    color: #fff;
+}
+
+.hero-caption p{
+    padding: 0.5rem 0 2rem 0;
+    font-size: 1.3rem;
+    color: white;
+}
+.hero-caption a{
+    text-decoration: none;
+    padding: 1rem 1.5rem;
+    background-color: #121212;
+    font-size: 1.2rem;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.hero-caption a:hover {
+    background-color: teal;
+    color: #fff;
+    transition: all 0.2s ease-in-out;
+}
+
+@media screen and (max-width: 650px) {
+    .hero-caption h1{
+        font-size: 2rem;
+        font-weight: 600;
+        color: #fff;
+    }
+    
+    .hero-caption p{
+        padding: 0.3rem 0 1.5rem 0;
+        font-size: 1rem;
+        color: white;
+    }
+}

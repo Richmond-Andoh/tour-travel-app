@@ -1,0 +1,16 @@
+.info {
+    padding-top: 3.5rem;
+    padding-bottom: 1.5rem;
+    background-color: teal;
+    color: white;
+    border-top-left-radius: 5rem;
+    border-top-right-radius: 5rem;
+}
+
+.info  h2{
+    margin-top: 3rem;
+}
+
+.container {
+    margin-top: 3rem;
+}

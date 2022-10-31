@@ -1,0 +1,24 @@
+form div input {
+    height: 50px;
+    width: 80%;
+    padding: 1rem 2rem;
+    margin: 1.5rem 0;
+    font-size: 1.5rem;
+}
+
+form div textarea {
+    width: 80%;
+    height: 200px;
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+}
+
+form button {
+    width: 80%;
+   border: none;
+    text-align: center;
+    font-size: 1.7rem;
+    padding: 1rem 0;
+    background-color: teal;
+    color: #fff;
+}

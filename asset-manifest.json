@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/tour-travel-app/static/css/main.dd2b0fb0.css",
+    "main.js": "/tour-travel-app/static/js/main.deca7863.js",
+    "static/media/video.mp4": "/tour-travel-app/static/media/video.3bab40c5c36b0128d522.mp4",
+    "static/media/hero.jpg": "/tour-travel-app/static/media/hero.34872fa3771d424b3b57.jpg",
+    "static/media/g3.jpg": "/tour-travel-app/static/media/g3.8d5b3e7f59425e3a9236.jpg",
+    "static/media/paris1.jpg": "/tour-travel-app/static/media/paris1.5592c6accc8050fa1264.jpg",
+    "static/media/trip6.jpg": "/tour-travel-app/static/media/trip6.193e70656c15388f6cbf.jpg",
+    "static/media/paris2.jpg": "/tour-travel-app/static/media/paris2.b710d27f4b8864db716a.jpg",
+    "static/media/g4.jpg": "/tour-travel-app/static/media/g4.d45e0cc86531fd0f84fd.jpg",
+    "static/media/trip2.jpg": "/tour-travel-app/static/media/trip2.7198e7b64fa8fa0a3b51.jpg",
+    "static/media/trip4.jpg": "/tour-travel-app/static/media/trip4.6a255ba2489a7b6d07a8.jpg",
+    "static/media/cali1.jpg": "/tour-travel-app/static/media/cali1.6884196a62b6dca58c6e.jpg",
+    "static/media/hero1.jpg": "/tour-travel-app/static/media/hero1.c1cb5f3fa882cc13100a.jpg",
+    "static/media/trip5.jpg": "/tour-travel-app/static/media/trip5.0ba282e6cd4854e6c44b.jpg",
+    "static/media/trip3.webp": "/tour-travel-app/static/media/trip3.b39ea9fc141dada6767d.webp",
+    "static/media/g6.webp": "/tour-travel-app/static/media/g6.cf8ff8121d69fb983aa4.webp",
+    "static/media/trip1.jpg": "/tour-travel-app/static/media/trip1.23f212108e6c11f1a5fb.jpg",
+    "static/media/g5.jpg": "/tour-travel-app/static/media/g5.a1745be54838075617f6.jpg",
+    "static/media/g2.jpg": "/tour-travel-app/static/media/g2.cec53d1a14b5547630bc.jpg",
+    "static/media/g1.webp": "/tour-travel-app/static/media/g1.9557bc04b3a322cdbadf.webp",
+    "static/media/serviceImg.jpeg": "/tour-travel-app/static/media/serviceImg.91b24ea76a7c5c8dd7e3.jpeg",
+    "static/media/dubai2.jpg": "/tour-travel-app/static/media/dubai2.7496c02761ae0a83cce0.jpg",
+    "static/media/cali2.jpg": "/tour-travel-app/static/media/cali2.1d44d15b4c630b2b38fc.jpg",
+    "static/media/dubai1.jpg": "/tour-travel-app/static/media/dubai1.d53984bf4b346a0e9aca.jpg",
+    "static/media/contact.avif": "/tour-travel-app/static/media/contact.3a778c56dfa8828a29e4.avif",
+    "index.html": "/tour-travel-app/index.html",
+    "main.dd2b0fb0.css.map": "/tour-travel-app/static/css/main.dd2b0fb0.css.map",
+    "main.deca7863.js.map": "/tour-travel-app/static/js/main.deca7863.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd2b0fb0.css",
+    "static/js/main.deca7863.js"
+  ]
+}

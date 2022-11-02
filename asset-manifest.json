@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tour-travel-app/static/css/main.dd2b0fb0.css",
-    "main.js": "/tour-travel-app/static/js/main.deca7863.js",
+    "main.css": "/tour-travel-app/static/css/main.aad0fc1e.css",
+    "main.js": "/tour-travel-app/static/js/main.a7bd5861.js",
     "static/media/video.mp4": "/tour-travel-app/static/media/video.3bab40c5c36b0128d522.mp4",
     "static/media/hero.jpg": "/tour-travel-app/static/media/hero.34872fa3771d424b3b57.jpg",
     "static/media/g3.jpg": "/tour-travel-app/static/media/g3.8d5b3e7f59425e3a9236.jpg",
@@ -26,11 +26,11 @@
     "static/media/dubai1.jpg": "/tour-travel-app/static/media/dubai1.d53984bf4b346a0e9aca.jpg",
     "static/media/contact.avif": "/tour-travel-app/static/media/contact.3a778c56dfa8828a29e4.avif",
     "index.html": "/tour-travel-app/index.html",
-    "main.dd2b0fb0.css.map": "/tour-travel-app/static/css/main.dd2b0fb0.css.map",
-    "main.deca7863.js.map": "/tour-travel-app/static/js/main.deca7863.js.map"
+    "main.aad0fc1e.css.map": "/tour-travel-app/static/css/main.aad0fc1e.css.map",
+    "main.a7bd5861.js.map": "/tour-travel-app/static/js/main.a7bd5861.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd2b0fb0.css",
-    "static/js/main.deca7863.js"
+    "static/css/main.aad0fc1e.css",
+    "static/js/main.a7bd5861.js"
   ]
 }

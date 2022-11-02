@@ -12,6 +12,7 @@ const Footer = () => {
                   <p>Choose your Destination</p>
                 </div>
                 <div className="social-icons">
+                  <h3>Connect with us</h3>
                   <p>
                     <a href="/">
                         <i className="fa-brands fa-facebook"></i>
@@ -68,6 +69,14 @@ const Footer = () => {
                </ul>
             </div>
 
+        </div>
+        
+        <div className="newsletter ms-4 mb-4">
+          <h4>Subscribe to Newsletter</h4>
+          <form>
+            <input type="email" placeholder="Email Address"/>
+            <input type="button" value="Subscribe"/> 
+          </form>
         </div>
     </div>
   )

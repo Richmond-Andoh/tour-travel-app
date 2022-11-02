@@ -33,7 +33,27 @@
     padding-top: 0.5rem;
 }
 
+.newsletter {
+    padding: 1rem 1rem;
+}
+
+.newsletter input {
+    padding: 0.8rem 1rem;
+    margin-top: 1.5rem;
+    margin-right: 1rem;
+}
+
+
+.newsletter input:nth-child(2){
+    background-color: teal;
+    column-rule: white;
+}
+
 @media screen and (max-width: 650px) {
+    .social-icons p {
+        display: grid;
+       grid-template-columns: auto auto;
+    }
     .footer-bottom {
         display: grid;
         grid-template-columns: auto auto;
@@ -49,5 +69,9 @@
         align-items: center;
         display: grid;
         grid-template-columns: auto;
+    }
+    .social-icons p {
+        display: flex;
+        flex-direction: column;
     }
 }

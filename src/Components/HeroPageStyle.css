@@ -47,11 +47,11 @@
 }
 .hero-caption a{
     text-decoration: none;
-    padding: 1rem 1.5rem;
-    background-color: #121212;
+    padding: 1rem 2rem;
+    background-color: #fff;
     font-size: 1.2rem;
-    color: #fff;
-    border-radius: 10px;
+    color: black;
+    border-radius: 5px;
 }
 
 .hero-caption a:hover {

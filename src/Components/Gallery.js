@@ -35,7 +35,6 @@ const Gallery = () => {
                 </div>
                 <div className="carousel-item g-item">
                  <img src={g6} class="d-block w-100" alt="..." />
-                 
                 </div>
             </div>
             <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

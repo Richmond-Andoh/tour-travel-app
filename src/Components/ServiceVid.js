@@ -7,7 +7,7 @@ const ServiceVid = () => {
   return (
     <div className="my-5">
         <h1 className="mt-5 mb-3 fw-bolder text-center">Entertain Yourself</h1>
-        <video autoPlay>
+        <video autoPlay muted>
             <source src={video} type="video/mp4"/>
         </video>
     </div>

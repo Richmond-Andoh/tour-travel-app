@@ -22,3 +22,9 @@ form button {
     background-color: teal;
     color: #fff;
 }
+
+form button:hover {
+    background: teal;
+    opacity: 0.8;
+    transition: 0.2s;
+}

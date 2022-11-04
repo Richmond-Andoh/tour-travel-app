@@ -26,10 +26,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+##Screenshots
+![](Images/snap.PNG)
 ## Live Demo Link
 
 Access the online version of my application with this link
-[Live Demo](https://umsqj0-3000.preview.csb.app/)
+[Live Demo](https://l8405m-3000.preview.csb.app/)
 
 ### `npm run build`
 
@@ -79,7 +81,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
+- Inspiration 
 - etc
 
 ## 📝 License

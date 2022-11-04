@@ -42,7 +42,9 @@ If you installed git you can clone the code to your machine, or download a ZIP o
 
 [Download the ZIP from this location](https://github.com/Richmond-Andoh/tour-travel-app/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
-
+```
+git clone https://github.com/Richmond-Andoh/tour-travel-app.git
+```
 
 ### Deployment
 
@@ -58,7 +60,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 👤 **Richmond Andoh**
 
 - Github [Richmond-Andoh](https://github.com/Richmond-Andoh/tour-travel-app)
-- LinkedIn [Desmond Tenakwah][(https://www.linkedin.com/in/richmond-andoh-65443b234/)]
+- LinkedIn [Richmond Andoh][(https://www.linkedin.com/in/richmond-andoh-65443b234/)]
 
 ## 🤝 Contributing
 

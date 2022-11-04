@@ -27,7 +27,9 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ##Screenshots
-![](Images/snap.PNG)
+![](src/Images/snap1.PNG)
+![](src/Images/snap2.PNG)
+
 ## Live Demo Link
 
 Access the online version of my application with this link

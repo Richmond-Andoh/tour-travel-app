@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup
+
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+
+[Download the ZIP from this location](https://github.com/Richmond-Andoh/tour-travel-app/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+
+```
+git clone https://github.com/Richmond-Andoh/tour-travel-app.git
+
+cd <the project name>
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -36,15 +48,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Setup
 
-If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
-
-[Download the ZIP from this location](https://github.com/Richmond-Andoh/tour-travel-app/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
-
-```
-git clone https://github.com/Richmond-Andoh/tour-travel-app.git
-```
 
 ### Deployment
 
